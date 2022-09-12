@@ -18,7 +18,7 @@
 - 👀 I’m interested on whatsapp bots
 
 - 🌱 I’m currently learning JAVASCRIPT
-- <h3 align="left">Connect with me:</h3><p>   <a href="https://instagram.com/__.sanuwa.__" target="blank"><img align="center" src="https://telegra.ph/file/a171ac66c22c5617fe27b.png" alt="https://www.instagram.com/_s__e_nu_w__a_/" height="40" width="40" /></a>
+- <h3 align="left">Connect with me:</h3><p>   <a href="https://wa.me/+94753420144" target="blank"><img align="center" src="https://i.ibb.co/9GmJFS1/md-5b321c98efaa6.jpg" alt="https://wa.me/+94753420144" height="40" width="40" /></a>
 </p>
 
 
