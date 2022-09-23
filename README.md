@@ -33,4 +33,3 @@
 
   <a href="https://github.com/SenuBoy/Queen-Melissa-Beta"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SenuBoy&repo=Queen-Melissa-Beta&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
   
-  <a href="https://github.com/SenuBoy/Queen-Melissa-Beta-2.0v"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SenuBoy&repo=Queen-Melissa-Beta-2.0v&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
