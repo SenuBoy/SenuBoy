@@ -26,10 +26,10 @@
  <p align="center"> <a href="https://github.com/TechoYT/TechoYT"><img src="https://github-profile-trophy.vercel.app/?username=sanuwaofficial&no-bg=true&no-frame=false&theme=algolia"></a></p>
 
 <p align="center"> <a href="https://github.com/TechoYT/TechoYT"><img  src="http://github-readme-streak-stats.herokuapp.com?user=Techo YT&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=00AEFF&fire=00AEFF&ring=00AEFF&currStreakNum=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=00AEFF&sideNums=00AEFF"></a></p>
-<p align="center"> <a href="https://github.com/SenuBoy/SenuBoy"><img src="https://github-readme-stats.vercel.app/api?username=SenuBoy&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
-<p align="center"> <a href="https://github.com/SenuBoy/SenuBoy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenuBoy&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
+<p align="center"> <a href="https://github.com/TechoYT/TechoYT"><img src="https://github-readme-stats.vercel.app/api?username=TechoYT&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
+<p align="center"> <a href="https://github.com/TechoYT/TechoYT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechoYT&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
 
 [![](https://visitcount.itsvg.in/api?id=SenuBoy&icon=7&color=0)](https://visitcount.itsvg.in)
 
-  <a href="https://github.com/SenuBoy/Queen-Melissa-Beta"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SenuBoy&repo=Queen-Melissa-Beta&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
+  <a href="https://github.com/TechoYT/Queen-Melissa-Beta"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TechoYT&repo=Queen-Melissa-Beta&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
   
