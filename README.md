@@ -33,3 +33,5 @@
 
   <a href="https://github.com/TechoYT/Queen-Melissa-Beta"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TechoYT&repo=Queen-Melissa-Beta&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
   
+  <a href="https://github.com/TechoYT/Techo-Bot"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TechoYT&repo=Queen-Melissa-Beta&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
+  
