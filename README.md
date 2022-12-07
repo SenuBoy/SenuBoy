@@ -1,8 +1,8 @@
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/TechoYT">
+    <a href="https://github.com/hightech-lab">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Techo%20+%20YT+..."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Techo+..."
             alt="Typing SVG"
         />
     </a>
