@@ -3,14 +3,26 @@
 
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/hightech-lab">
-        <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Techo+..."
-            alt="Typing SVG"
-        />
-    </a>
+<a href="https://github.com/hightech-lab">
+<img align="left"
+src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Senura+Neekshana..."
+alt="Typing SVG"/>
+</a>
 </p>                                
  
+<!-- Typing SVG -->
+<p aling="center">
+<a href="https://github.com/hightech-lab">
+<img aling="center"
+src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=This+Is+My+Profile+Repo"
+alt="Typing SVG"/>
+</a>
+</p>
+
+
+<p>
+<h1><b><center>High Tech Lab</center></b></h1>
+
 
 
 
@@ -20,7 +32,7 @@
  
 - 👀 I’m interested on whatsapp bots
 
-- 🌱 I’m currently learning JAVASCRIPT
+- 🌱 I’m currently learning Python / C# / HTML / Javascript / Java
 - <h3 align="left">Connect with me:</h3><p>   <a href="https://wa.me/+94753420144" target="blank"><img align="center" src="https://i.ibb.co/9GmJFS1/md-5b321c98efaa6.jpg" alt="https://wa.me/+94753420144" height="40" width="40" /></a>
 </p>
 
