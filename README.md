@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=hightech-lab&icon=7&color=0)](https://visitcount.itsvg.in)
+
+
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://github.com/hightech-lab">
@@ -29,9 +32,3 @@
 <p align="center"> <a href="https://github.com/hightech-lab/hightech-lab"><img src="https://github-readme-stats.vercel.app/api?username=hightech-lab&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
 <p align="center"> <a href="https://github.com/hightech-lab/hightech-lab"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hightech-lab&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
 
-[![](https://visitcount.itsvg.in/api?id=hightech-lab&icon=7&color=0)](https://visitcount.itsvg.in)
-
-  <a href="https://github.com/hightech-lab/Queen-Melissa-Beta"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hightech-lab&repo=Queen-Melissa-Beta&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
-  
-  <a href="https://github.com/hightech-lab/Techo-Bot"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hightech-lab&repo=Techo-Bot&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=11ff11&text_color=ffffff&disable_animations=false"></a>
-  
